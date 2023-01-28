@@ -145,7 +145,7 @@ a.links::after{
     color: var(--cor4);
     padding: 20px 0px 5px;
     font-family: var(--font-android);
-    margin-top: 30px;
+    /*margin-top: 30px;*/
 }
 
 .p-h2-main1, .p1-h3-1-main1,.p2-h3-1-main1, .p1-h3-2-main1, .p2-h3-2-main1, .p1-h2-2-main1 , .p2-h2-2-main1, .p3-h2-2-main1, .p4-h2-2-main1{
